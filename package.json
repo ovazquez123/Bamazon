@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Amazon-like storefront with Node.js &amp; MySQL.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andylushman/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andylushman/Bamazon/issues"
+  },
+  "homepage": "https://github.com/andylushman/Bamazon#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "inquirer": "^3.2.1",
+    "mysql": "^2.15.0",
+    "require": "^2.4.20"
+  }
+}
