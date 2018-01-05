@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andylushman/Bamazon.git"
+    "url": "git+https://github.com/ovazquez123/Bamazon.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/andylushman/Bamazon/issues"
+    "url": "https://github.com/ovazquez123/Bamazon/issues"
   },
-  "homepage": "https://github.com/andylushman/Bamazon#readme",
+  "homepage": "https://github.com/ovazquez123/Bamazon#readme",
   "dependencies": {
     "express": "^4.16.2",
     "inquirer": "^3.2.1",
